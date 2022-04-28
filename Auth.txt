@@ -1,0 +1,2 @@
+[1] Login -> Dapat token -> simpan token -> redirect
+[2] Buka browser -> cek token ? next() : redirect to login
